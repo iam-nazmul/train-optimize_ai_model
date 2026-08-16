@@ -1,4 +1,4 @@
-# ai
+# ai/ml train-optimize_ai_model
 
 U-Net image segmentation trained from scratch on the Oxford-IIIT Pet dataset (TensorFlow / Keras).
 
